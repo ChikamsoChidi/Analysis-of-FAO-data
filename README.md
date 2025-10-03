@@ -23,8 +23,7 @@ The analysis was performed using Python (Pandas, Matplotlib, Seaborn) and focuse
 
 1.  **Data Preparation:** Loaded the dataset, handled missing values by imputing zeros, and ensured column standardization.
 2.  **Trade Analysis:** Identified the top 10 food **Items** and **Areas (Countries)** by total **Import Quantity** and **Export Quantity**.
-3.  **Consumption Analysis:** Determined the top 10 food **Items** contributing to total **Food supply quantity (kg/capita/yr)**.
-4.  **Supply Analysis:** Identified the top and bottom countries in terms of total **Production** and **Domestic Supply Quantity**.
+3.  **Supply Analysis:** Identified the top and bottom countries in terms of total **Production**.
 
 ## Key Findings (Summary)
 
